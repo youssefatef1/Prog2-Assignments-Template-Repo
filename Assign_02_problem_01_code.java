@@ -1,5 +1,5 @@
-//mohamed mahmoud saif
-//202106415
+//yousef atef
+//202106247
 import java.util.Scanner;
 public class assignment2_1 {
     public static void main(String[] args) {
